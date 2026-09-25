@@ -1,0 +1,99 @@
+{
+  "floors": [
+    {
+      "floor": 1,
+      "apartments": [
+        {
+          "id": "101",
+          "status": "Продано",
+          "area": 45.5,
+          "focusPoint": {
+            "location": { "x": 3500, "y": 500, "z": 0 },
+            "rotation": { "pitch": 0.0, "yaw": 90.0, "roll": 0.0 },
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 }
+          }
+        },
+        {
+          "id": "102",
+          "status": "Свободно",
+          "area": 52.3,
+          "focusPoint": {
+            "location": { "x": 0, "y": 500, "z": 3500 },
+            "rotation": { "pitch": 0.0, "yaw": 0.0, "roll": 0.0 },
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 }
+          }
+        },
+        {
+          "id": "103",
+          "status": "Свободно",
+          "area": 38.0,
+          "focusPoint": {
+            "location": { "x": -3500, "y": 500, "z": 0 },
+            "rotation": { "pitch": 0.0, "yaw": 270.0, "roll": 0.0 },
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 }
+          }
+        }
+      ]
+    },
+    {
+      "floor": 2,
+      "apartments": [
+        {
+          "id": "201",
+          "status": "Свободно",
+          "area": 47.2,
+          "focusPoint": {
+            "location": { "x": 0, "y": 1500, "z": -3500 },
+            "rotation": { "pitch": 0.0, "yaw": 180.0, "roll": 0.0 },
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 }
+          }
+        },
+        {
+          "id": "202",
+          "status": "Продано",
+          "area": 60.1,
+          "focusPoint": {
+            "location": { "x": 3500, "y": 1500, "z": 0 },
+            "rotation": { "pitch": 0.0, "yaw": 90.0, "roll": 0.0 },
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 }
+          }
+        },
+        {
+          "id": "203",
+          "status": "Свободно",
+          "area": 41.8,
+          "focusPoint": {
+            "location": { "x": 0, "y": 1500, "z": 3500 },
+            "rotation": { "pitch": 0.0, "yaw": 0.0, "roll": 0.0 },
+            "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+          }
+        }
+      ]
+    },
+    {
+      "floor": 3,
+      "apartments": [
+        {
+          "id": "301",
+          "status": "Продано",
+          "area": 55.0,
+          "focusPoint": {
+            "location": { "x": -3500, "y": 2500, "z": 0 },
+            "rotation": { "pitch": 0.0, "yaw": 270.0, "roll": 0.0 },
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 }
+          }
+        },
+        {
+          "id": "302",
+          "status": "Свободно",
+          "area": 49.6,
+          "focusPoint": {
+            "location": { "x": 0, "y": 2500, "z": -3500 },
+            "rotation": { "pitch": 0.0, "yaw": 180.0, "roll": 0.0 },
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 }
+          }
+        }
+      ]
+    }
+  ]
+}
