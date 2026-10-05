@@ -13,16 +13,7 @@ public class REAS : ModuleRules
 			"Core", 
 			"CoreUObject", 
 			"Engine", 
-			"InputCore",
-			"Blutility",
-			"UMG",
-			"UMGEditor",
-			"AssetTools",
-            "EditorScriptingUtilities",
-			"UnrealEd",
-			"Json",
-			"JsonUtilities",
-            "AssetRegistry"
+			"InputCore"
         });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
